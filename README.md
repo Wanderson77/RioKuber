@@ -19,6 +19,7 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 + AirBnB styles
 + Sliding Card
 + Map animation
++ React Navigation
 + Imagens com LazyLoad
 + Scroll infinito
 + Facebook Login
