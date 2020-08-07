@@ -1,10 +1,6 @@
 # App Demo
 > Este APP tem a função de aproximar e facilitar a previsão do tempo.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 ![App Demo](/src/assets/app-base.png "App Demo")
 
 ## Mobile Apps
