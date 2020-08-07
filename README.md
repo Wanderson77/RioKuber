@@ -5,8 +5,6 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
 ![App Demo](/src/assets/app-base.png "App Demo")
 
 ## Mobile Apps
@@ -32,6 +30,10 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 + Hooks
 
 ## Firebase Features
+
+## Cloud Features
+
++ ServerLess
 
 ## Histórico de lançamentos
 
