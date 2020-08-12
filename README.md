@@ -48,5 +48,6 @@
 + VSCode
 + Figma
 + Storybook
++ Jest / Enzime
 + Material UI
 + TypeScript
