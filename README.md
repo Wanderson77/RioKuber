@@ -2,7 +2,7 @@
 
 > O HAV é um app que permite comparar preços dos ofertantes de serviços de mobilidade.
 > Ou seja, quem tem o app irá pagar o menor preço nos serviços de locomoção e transporte.
-
+>
 > O app possui disponibiliza 5 comparadores de preço, focados em diferentes atividades,
 > para te ajudar na hora de contratar o serviço.
 
@@ -14,9 +14,8 @@
 ## Mobile Apps
 
 + Facebook Login
-+ ASO
-+ Mobile Marketing
 + Geolocalização
++ Atualização em tempo real
 
 ## React Native Features
 
