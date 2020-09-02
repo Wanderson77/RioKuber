@@ -33,6 +33,7 @@
 
 + TDD / Jest / Enzime
 + Hooks
++ Recoil (State Management)
 
 ## Firebase Features
 
