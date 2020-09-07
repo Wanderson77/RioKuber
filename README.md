@@ -15,7 +15,10 @@
 
 + Facebook Login
 + Geolocalização
++ Calculadora de custo
 + Atualização em tempo real
++ Sistemas de avaliações
++ Dashboard administrativo
 
 ## React Native Features
 
