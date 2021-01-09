@@ -1,4 +1,4 @@
-# App Demo
+# App Quber :octocat:
 
 > O HAV é um app que permite comparar preços dos ofertantes de serviços de mobilidade.
 > Ou seja, quem tem o app irá pagar o menor preço nos serviços de locomoção e transporte.
@@ -64,7 +64,5 @@
 
 + B2C
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
