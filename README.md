@@ -22,7 +22,6 @@
 
 ## React Native Features
 
-+ AirBnB styles
 + Sliding Card
 + Map animation
 + React Navigation
@@ -31,12 +30,6 @@
 + Scroll infinito
 + Facebook Login
 + Place Graph
-
-## JS Features
-
-+ TDD / Jest / Enzime
-+ Hooks
-+ Recoil (State Management)
 
 ## Firebase Features
 
@@ -47,18 +40,26 @@
 + Storage
 + AdMob
 
-## Cloud Features
-
-+ ServerLess
-
 ## Dev Tools Experience
 
 + VSCode
++ AirBnB styles + Prettier
 + Figma
 + Storybook
 + Jest / Enzime
 + Material UI
 + TypeScript
+
+## JS Features
+
++ TDD / Jest / Enzime
++ Hooks
++ Recoil (State Management)
+
+## Cloud Features
+
++ ServerLess
+
 
 ## Monetização
 
