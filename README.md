@@ -22,14 +22,22 @@
 
 ## React Native Features
 
++ AirBnB styles + Prettier
++ Components Class / Hooks
++ Testes (Jest / Enzime / Mocha / Chai / TestLibrary)
++ Figma
++ Material UI
++ Styled Components
++ React Navigation
++ React Native Camera
++ Context API
 + Sliding Card
 + Map animation
-+ React Navigation
 + Imagens com LazyLoad
-+ MapBox
 + Scroll infinito
-+ Facebook Login
 + Place Graph
++ Lottie
++ Storybook
 
 ## Firebase Features
 
