@@ -48,15 +48,14 @@
 + Storage
 + AdMob
 
-## Dev Tools Experience
+## Dev Tools Experience (Feat)
 
++ TypeScript | JavaScript
 + VSCode
-+ AirBnB styles + Prettier
-+ Figma
-+ Storybook
-+ Jest / Enzime
-+ Material UI
-+ TypeScript
++ CI | CD (App Center / GitHub Actions)
++ Docker | Kubernetes
++ ServerLess
++ Insomnia | Postman
 
 ## JS Features
 
@@ -67,7 +66,6 @@
 ## Cloud Features
 
 + ServerLess
-
 
 ## Monetização
 
