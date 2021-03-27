@@ -56,8 +56,9 @@
 + Docker | Kubernetes
 + ServerLess
 + Insomnia | Postman
-
-## JS Features
++ GraphQL
+  
++ ## JS Features
 
 + TDD / Jest / Enzime
 + Hooks
