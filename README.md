@@ -1,4 +1,4 @@
-# App Quber :octocat:
+# App Quber :octocat
 
 > O HAV é um app que permite comparar preços dos ofertantes de serviços de mobilidade.
 > Ou seja, quem tem o app irá pagar o menor preço nos serviços de locomoção e transporte.
@@ -39,25 +39,18 @@
 + Lottie
 + Storybook
 
-## Firebase Features
-
-+ Authentication
-+ RealTime db
-+ Analytics
-+ Cloud Messaging
-+ Storage
-+ AdMob
-
-## Dev Tools Experience (Feat)
+## Dev Experience (Feat)
 
 + TypeScript | JavaScript
 + VSCode
++ Firebase
 + CI | CD (App Center / GitHub Actions)
-+ Docker | Kubernetes
-+ ServerLess
++ Tests | React Test Library
++ ServerLess (AWS)
 + Insomnia | Postman
-+ GraphQL
-  
++ GraphQL | API Rest
++ Docker | Kubernetes
+
 + ## JS Features
 
 + TDD / Jest / Enzime
