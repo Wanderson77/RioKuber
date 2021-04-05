@@ -24,7 +24,6 @@
 
 + AirBnB styles + Prettier
 + Components Class / Hooks
-+ Testes (Jest / Enzime / Mocha / Chai / TestLibrary)
 + Figma
 + Material UI
 + Styled Components
@@ -44,16 +43,15 @@
 + TypeScript | JavaScript
 + VSCode
 + Firebase
-+ CI | CD (App Center / GitHub Actions)
 + Tests | React Test Library
 + ServerLess (AWS)
 + Insomnia | Postman
 + GraphQL | API Rest
++ CI | CD (App Center / GitHub Actions)
 + Docker | Kubernetes
 
-+ ## JS Features
+## JS Features
 
-+ TDD / Jest / Enzime
 + Hooks
 + Recoil (State Management)
 
