@@ -22,7 +22,6 @@
 
 ## React Native Features
 
-+ AirBnB styles + Prettier
 + Components Class / Hooks
 + Figma
 + Material UI
@@ -42,6 +41,7 @@
 
 + TypeScript | JavaScript
 + VSCode
++ Style AirBnB + Prettier
 + Firebase
 + Tests | React Test Library
 + ServerLess (AWS)
