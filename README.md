@@ -23,7 +23,6 @@
 ## React Native Features
 
 + Components Class / Hooks
-+ Figma
 + Material UI
 + Styled Components
 + React Navigation
@@ -39,6 +38,7 @@
 
 ## Dev Experience (Feat)
 
++ Figma
 + TypeScript | JavaScript
 + VSCode
 + Style AirBnB + Prettier
