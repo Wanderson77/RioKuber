@@ -22,8 +22,9 @@
 
 ## React Native Features
 
-+ Components Class / Hooks
++ Hooks / Class
 + Material UI
++ Redux - State Management
 + Styled Components
 + React Navigation
 + React Native Camera
@@ -49,15 +50,6 @@
 + GraphQL | API Rest
 + CI | CD (App Center / GitHub Actions)
 + Docker | Kubernetes
-
-## JS Features
-
-+ Hooks
-+ Recoil (State Management)
-
-## Cloud Features
-
-+ ServerLess
 
 ## Monetização
 
