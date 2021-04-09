@@ -43,6 +43,7 @@
 + TypeScript | JavaScript
 + VSCode
 + Style AirBnB + Prettier
++ CommitLint + Commitizen
 + Firebase
 + Tests | React Test Library
 + ServerLess (AWS)
