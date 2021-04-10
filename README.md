@@ -42,9 +42,10 @@
 + Figma
 + TypeScript | JavaScript
 + VSCode
++ Firebase
 + Style AirBnB + Prettier
 + CommitLint + Commitizen
-+ Firebase
++ Husky + Lint-staged
 + Tests | React Test Library
 + ServerLess (AWS)
 + Insomnia | Postman
