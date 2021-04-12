@@ -24,6 +24,7 @@
 
 + Hooks / Class
 + Material UI
++ Storybook
 + Redux - State Management
 + Styled Components
 + React Navigation
@@ -35,8 +36,7 @@
 + Scroll infinito
 + Place Graph
 + Lottie
-+ Storybook
-
+  
 ## Dev Experience (Feat)
 
 + Figma
