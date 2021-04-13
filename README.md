@@ -13,7 +13,7 @@
 
 ## Mobile Apps
 
-+ Facebook Login
++ Social Login
 + Geolocalização
 + Calculadora de custo
 + Atualização em tempo real
@@ -36,7 +36,7 @@
 + Scroll infinito
 + Place Graph
 + Lottie
-  
+
 ## Dev Experience (Feat)
 
 + Figma
