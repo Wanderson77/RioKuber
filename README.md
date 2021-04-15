@@ -1,6 +1,7 @@
 # App Quber :octocat
 
-> O Quber é um app de mobilidade urbana projetado para permite .....
+> O Quber é um app de mobilidade urbana projetado para melhorar a experiência
+> da jornada de trabalho de motoristas de aplicativos (uber, 99 e cabify).
 
 ![App Demo](/src/assets/app-base.png "App Demo")
 
@@ -12,6 +13,7 @@
 + Social Login
 + Geolocalização
 + Calculadora de custo
++ Busca por lava jatos próximos
 + Atualização em tempo real
 + Sistemas de avaliações
 + Dashboard administrativo
