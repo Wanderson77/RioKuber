@@ -14,6 +14,7 @@
 + Geolocalização
 + Calculadora de custo
 + Busca por lava jatos próximos
++ Dicas para aluguel de carros
 + Atualização em tempo real
 + Sistemas de avaliações
 + Dashboard administrativo
