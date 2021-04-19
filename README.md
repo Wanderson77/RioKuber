@@ -13,6 +13,7 @@
 + Social Login
 + Geolocalização
 + Calculadora de custo
++ Estime o valor de corridas e gere recibos
 + Busca por lava jatos próximos
 + Dicas para aluguel de carros
 + Atualização em tempo real
