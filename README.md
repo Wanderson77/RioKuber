@@ -37,20 +37,19 @@
 + Place Graph
 + Lottie
 
-## Dev Experience (Feat)
+## DX
 
-+ Figma
-+ TypeScript | JavaScript
-+ VSCode
-+ Firebase
-+ Style AirBnB + Prettier
-+ CommitLint + Commitizen
++ VSCode + TypeScript | JavaScript
++ Linter Style AirBnB + Prettier
++ Figma + Storybook
++ ReactoTron
++ Flipper
 + Husky + Lint-staged
-+ Tests | React Test Library
-+ ServerLess (AWS)
-+ Insomnia | Postman
++ CommitLint + Commitizen
++ Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
-+ CI | CD (App Center / GitHub Actions)
++ Insomnia | Postman
++ CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
 
 ## Monetização
