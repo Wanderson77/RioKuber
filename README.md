@@ -37,6 +37,16 @@
 + Place Graph
 + Lottie
 
+## Firebase
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AppIndex
++ AdMob
+
 ## DX
 
 + VSCode + TypeScript | JavaScript
