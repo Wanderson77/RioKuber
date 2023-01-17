@@ -20,13 +20,13 @@
 + Sistemas de avaliações
 + Dashboard administrativo
 
-## React Native Features
+## React Native / I Love This
 
-+ Hooks / Class
-+ Material UI
-+ Storybook
-+ Redux - State Management
++ Hooks
++ Core Components
 + Styled Components
++ Material UI
++ Redux - State Management
 + React Navigation
 + React Native Camera
 + Context API
@@ -49,7 +49,7 @@
 
 ## DX
 
-+ VSCode + TypeScript | JavaScript
++ VSCode + TypeScript | JavaScript (es6)
 + Linter Style AirBnB + Prettier
 + Figma + Storybook
 + ReactoTron
