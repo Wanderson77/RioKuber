@@ -26,11 +26,11 @@
 + Core Components
 + Styled Components
 + Flexbox Layout
-+ Material UI
-+ Redux - State Management
 + React Navigation
++ Material UI
 + React Native Camera
 + Context API
++ Redux - State Management
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
