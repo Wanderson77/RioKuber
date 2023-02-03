@@ -37,6 +37,7 @@
 + Scroll infinito
 + Place Graph
 + Lottie
++ API Waze
 
 ## Firebase
 
