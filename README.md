@@ -31,9 +31,6 @@
 + React Native Camera
 + Sliding Card
 + Map animation
-+ Imagens com LazyLoad
-+ Scroll infinito
-+ Place Graph
 + Lottie
 + Context API
 + Redux - State Management
