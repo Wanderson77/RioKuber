@@ -6,10 +6,13 @@ import { styles } from "./style";
 
 export default function Index() {
   const [user, setUser] = useState([]);
+  const [password, setPassword] = useState('');
+
+  useEffect(() => {},[]);
 
   return (
-    <View>
-      <Text style={styles.container}>index</Text>
+    <View style={styles.container}>
+      <Text>index</Text>
     </View>
   )
 }
