@@ -7,12 +7,21 @@ import { styles } from "./style";
 export default function Index() {
   const [user, setUser] = useState([]);
   const [password, setPassword] = useState('');
+  const [error, setError] = useState([]);
 
-  useEffect(() => {},[]);
+  function handleActionUser() {
+    if ( airbnbStyles ) {
+      console.log('RN');
+    } else {}
+  }
+
+  useEffect(() => {
+    console.log('RN');
+  },[]);
 
   return (
     <View style={styles.container}>
-      <Text>index</Text>
+      <Text style={styles.text}>index</Text>
     </View>
   )
 }
