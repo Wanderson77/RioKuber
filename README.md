@@ -20,21 +20,4 @@
 + Sistemas de avaliações
 + Dashboard administrativo
 
-## React Native / I Love This
-
-+ Hooks
-+ Core Components
-+ Styled Components
-+ Flexbox Layout
-+ React Navigation
-+ Material UI
-+ React Native Camera
-+ Sliding Card
-+ Map animation
-+ Lottie
-+ Context API
-+ Redux - State Management
-+ API Waze
-+ ... e mais
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
